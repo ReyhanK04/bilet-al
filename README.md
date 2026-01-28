@@ -38,4 +38,6 @@ Sistem üç ana panelden oluşmaktadır: **Admin**, **Firma** ve **Bilet Al**.
 ## 👥 Geliştiriciler
 
 * **Sena KÖSEOĞLU** 
-* **Reyhan KURTULMUŞ** 
+* **Reyhan KURTULMUŞ**
+<img width="1220" height="1081" alt="Ekran görüntüsü 2024-02-28 230740" src="https://github.com/user-attachments/assets/509fbbf7-e930-4db0-875f-d9707bb47746" />
+
